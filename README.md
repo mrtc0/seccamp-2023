@@ -4,3 +4,5 @@ This repository is for [Security Camp 2023 B3](https://www.ipa.go.jp/jinzai/secu
 
 Students, please refer to the lecture page on Kibela.
 
+## env
+Define POSTGRES_PASSWORD, POSTGRES_DB, DATABASE_DSN in .env
