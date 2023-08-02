@@ -6,3 +6,9 @@ Students, please refer to the lecture page on Kibela.
 
 ## env
 Define POSTGRES_PASSWORD, POSTGRES_DB, DATABASE_DSN in .env
+
+## run
+```bash
+docker-compose up
+curl localhost:8080
+```
